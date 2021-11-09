@@ -1,1 +1,0 @@
-<built-in function time>2021-05-26 13:59:10.814569you drink water at [2021-05-26 14:02:29.435653]
